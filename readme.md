@@ -22,7 +22,7 @@ AWS Deep Dive Days - Generative AI is a three-day in-person event for builders, 
 
 9. (on the instance) run `source /opt/aws_neuron_venv_pytorch/bin/activate`
 10. (on the instance) run `python -m pip install --upgrade neuronx-cc==2.* torch-neuronx==1.13.* torchvision`
-11. (on the instance) run `git clone <this repo>`
+11. (on the instance) run `git clone https://github.com/Maurits-de-Groot/WOR201---Accelerating-AI-Innovation-on-AWS-Trainium-and-Inferentia-with-the-Neuron-Kernel-Interface.git`
 12. (on the instance) run `jupyter-lab` and access the server
 
 ### Workshop time
